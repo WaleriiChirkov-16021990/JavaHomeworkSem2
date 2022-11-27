@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-26T08:35:33.922145900Z</date>
+  <millis>1669451733922</millis>
+  <nanos>145900</nanos>
+  <sequence>0</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение сортировки пузырьком запущено.</message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.960148500Z</date>
+  <millis>1669451733960</millis>
+  <nanos>148500</nanos>
+  <sequence>1</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа сгенерировала массив целых чисел [88, 85, 11, 62, 7, 43, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.962146400Z</date>
+  <millis>1669451733962</millis>
+  <nanos>146400</nanos>
+  <sequence>2</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 0, array = [85, 88, 11, 62, 7, 43, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.963146100Z</date>
+  <millis>1669451733963</millis>
+  <nanos>146100</nanos>
+  <sequence>3</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 1, array = [85, 11, 88, 62, 7, 43, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.964147500Z</date>
+  <millis>1669451733964</millis>
+  <nanos>147500</nanos>
+  <sequence>4</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 2, array = [85, 11, 62, 88, 7, 43, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.965148800Z</date>
+  <millis>1669451733965</millis>
+  <nanos>148800</nanos>
+  <sequence>5</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 3, array = [85, 11, 62, 7, 88, 43, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.966146900Z</date>
+  <millis>1669451733966</millis>
+  <nanos>146900</nanos>
+  <sequence>6</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 4, array = [85, 11, 62, 7, 43, 88, 73, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.966146900Z</date>
+  <millis>1669451733966</millis>
+  <nanos>146900</nanos>
+  <sequence>7</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 5, array = [85, 11, 62, 7, 43, 73, 88, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.967146800Z</date>
+  <millis>1669451733967</millis>
+  <nanos>146800</nanos>
+  <sequence>8</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 6, array = [85, 11, 62, 7, 43, 73, 88, 95, 55, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.968147300Z</date>
+  <millis>1669451733968</millis>
+  <nanos>147300</nanos>
+  <sequence>9</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 7, array = [85, 11, 62, 7, 43, 73, 88, 55, 95, 64] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.968147300Z</date>
+  <millis>1669451733968</millis>
+  <nanos>147300</nanos>
+  <sequence>10</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 9, j = 8, array = [85, 11, 62, 7, 43, 73, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.969145600Z</date>
+  <millis>1669451733969</millis>
+  <nanos>145600</nanos>
+  <sequence>11</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 0, array = [11, 85, 62, 7, 43, 73, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.969145600Z</date>
+  <millis>1669451733969</millis>
+  <nanos>145600</nanos>
+  <sequence>12</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 1, array = [11, 62, 85, 7, 43, 73, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.970147300Z</date>
+  <millis>1669451733970</millis>
+  <nanos>147300</nanos>
+  <sequence>13</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 2, array = [11, 62, 7, 85, 43, 73, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.970147300Z</date>
+  <millis>1669451733970</millis>
+  <nanos>147300</nanos>
+  <sequence>14</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 3, array = [11, 62, 7, 43, 85, 73, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.971145300Z</date>
+  <millis>1669451733971</millis>
+  <nanos>145300</nanos>
+  <sequence>15</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 4, array = [11, 62, 7, 43, 73, 85, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.971145300Z</date>
+  <millis>1669451733971</millis>
+  <nanos>145300</nanos>
+  <sequence>16</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 5, array = [11, 62, 7, 43, 73, 85, 88, 55, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.972145300Z</date>
+  <millis>1669451733972</millis>
+  <nanos>145300</nanos>
+  <sequence>17</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 6, array = [11, 62, 7, 43, 73, 85, 55, 88, 64, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.973146600Z</date>
+  <millis>1669451733973</millis>
+  <nanos>146600</nanos>
+  <sequence>18</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 8, j = 7, array = [11, 62, 7, 43, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.973146600Z</date>
+  <millis>1669451733973</millis>
+  <nanos>146600</nanos>
+  <sequence>19</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 0, array = [11, 62, 7, 43, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.974145300Z</date>
+  <millis>1669451733974</millis>
+  <nanos>145300</nanos>
+  <sequence>20</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 1, array = [11, 7, 62, 43, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.974145300Z</date>
+  <millis>1669451733974</millis>
+  <nanos>145300</nanos>
+  <sequence>21</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 2, array = [11, 7, 43, 62, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.975144900Z</date>
+  <millis>1669451733975</millis>
+  <nanos>144900</nanos>
+  <sequence>22</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 3, array = [11, 7, 43, 62, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.975144900Z</date>
+  <millis>1669451733975</millis>
+  <nanos>144900</nanos>
+  <sequence>23</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 4, array = [11, 7, 43, 62, 73, 85, 55, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.976146100Z</date>
+  <millis>1669451733976</millis>
+  <nanos>146100</nanos>
+  <sequence>24</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 5, array = [11, 7, 43, 62, 73, 55, 85, 64, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.976146100Z</date>
+  <millis>1669451733976</millis>
+  <nanos>146100</nanos>
+  <sequence>25</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 7, j = 6, array = [11, 7, 43, 62, 73, 55, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.977146100Z</date>
+  <millis>1669451733977</millis>
+  <nanos>146100</nanos>
+  <sequence>26</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 0, array = [7, 11, 43, 62, 73, 55, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.977146100Z</date>
+  <millis>1669451733977</millis>
+  <nanos>146100</nanos>
+  <sequence>27</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 1, array = [7, 11, 43, 62, 73, 55, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.978145400Z</date>
+  <millis>1669451733978</millis>
+  <nanos>145400</nanos>
+  <sequence>28</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 2, array = [7, 11, 43, 62, 73, 55, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.978145400Z</date>
+  <millis>1669451733978</millis>
+  <nanos>145400</nanos>
+  <sequence>29</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 3, array = [7, 11, 43, 62, 73, 55, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.978145400Z</date>
+  <millis>1669451733978</millis>
+  <nanos>145400</nanos>
+  <sequence>30</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 4, array = [7, 11, 43, 62, 55, 73, 64, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.979145Z</date>
+  <millis>1669451733979</millis>
+  <nanos>145000</nanos>
+  <sequence>31</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 6, j = 5, array = [7, 11, 43, 62, 55, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.979145Z</date>
+  <millis>1669451733979</millis>
+  <nanos>145000</nanos>
+  <sequence>32</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 5, j = 0, array = [7, 11, 43, 62, 55, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.979145Z</date>
+  <millis>1669451733979</millis>
+  <nanos>145000</nanos>
+  <sequence>33</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 5, j = 1, array = [7, 11, 43, 62, 55, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.980145Z</date>
+  <millis>1669451733980</millis>
+  <nanos>145000</nanos>
+  <sequence>34</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 5, j = 2, array = [7, 11, 43, 62, 55, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.980145Z</date>
+  <millis>1669451733980</millis>
+  <nanos>145000</nanos>
+  <sequence>35</sequence>
+  <logger>bublesort</logger>
+  <level>WARNING</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 5, j = 3, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.980145Z</date>
+  <millis>1669451733980</millis>
+  <nanos>145000</nanos>
+  <sequence>36</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 5, j = 4, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.981146700Z</date>
+  <millis>1669451733981</millis>
+  <nanos>146700</nanos>
+  <sequence>37</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 4, j = 0, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.981146700Z</date>
+  <millis>1669451733981</millis>
+  <nanos>146700</nanos>
+  <sequence>38</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 4, j = 1, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.981146700Z</date>
+  <millis>1669451733981</millis>
+  <nanos>146700</nanos>
+  <sequence>39</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 4, j = 2, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.981146700Z</date>
+  <millis>1669451733981</millis>
+  <nanos>146700</nanos>
+  <sequence>40</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 4, j = 3, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.982144400Z</date>
+  <millis>1669451733982</millis>
+  <nanos>144400</nanos>
+  <sequence>41</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 3, j = 0, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.982144400Z</date>
+  <millis>1669451733982</millis>
+  <nanos>144400</nanos>
+  <sequence>42</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 3, j = 1, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.983146100Z</date>
+  <millis>1669451733983</millis>
+  <nanos>146100</nanos>
+  <sequence>43</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 3, j = 2, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.983146100Z</date>
+  <millis>1669451733983</millis>
+  <nanos>146100</nanos>
+  <sequence>44</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 2, j = 0, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.983146100Z</date>
+  <millis>1669451733983</millis>
+  <nanos>146100</nanos>
+  <sequence>45</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 2, j = 1, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.983146100Z</date>
+  <millis>1669451733983</millis>
+  <nanos>146100</nanos>
+  <sequence>46</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Иттерация i = 1, j = 0, array = [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] </message>
+</record>
+<record>
+  <date>2022-11-26T08:35:33.984148200Z</date>
+  <millis>1669451733984</millis>
+  <nanos>148200</nanos>
+  <sequence>47</sequence>
+  <logger>bublesort</logger>
+  <level>INFO</level>
+  <class>bublesort</class>
+  <method>bublesort</method>
+  <thread>1</thread>
+  <message>Программа отсортировала массив целых чисел -&gt; [7, 11, 43, 55, 62, 64, 73, 85, 88, 95] за 54 иттераций.</message>
+</record>
+</log>

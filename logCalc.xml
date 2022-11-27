@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-26T10:08:17.634833700Z</date>
+  <millis>1669457297634</millis>
+  <nanos>833700</nanos>
+  <sequence>0</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>калькулятор запущен.</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:24.554362700Z</date>
+  <millis>1669457304554</millis>
+  <nanos>362700</nanos>
+  <sequence>1</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 4</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:26.353202900Z</date>
+  <millis>1669457306353</millis>
+  <nanos>202900</nanos>
+  <sequence>2</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел первое число 6.0</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:27.123864200Z</date>
+  <millis>1669457307123</millis>
+  <nanos>864200</nanos>
+  <sequence>3</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел второе число 0.0</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:27.124871300Z</date>
+  <millis>1669457307124</millis>
+  <nanos>871300</nanos>
+  <sequence>4</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>WARNING</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь пытается делить на '0.0'</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:34.959898100Z</date>
+  <millis>1669457314959</millis>
+  <nanos>898100</nanos>
+  <sequence>5</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел первое число 6.0</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:36.166922800Z</date>
+  <millis>1669457316166</millis>
+  <nanos>922800</nanos>
+  <sequence>6</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел второе число 2.0</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:36.167926200Z</date>
+  <millis>1669457316167</millis>
+  <nanos>926200</nanos>
+  <sequence>7</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь получил результат '3.0'</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:42.638969Z</date>
+  <millis>1669457322638</millis>
+  <nanos>969000</nanos>
+  <sequence>8</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 5</message>
+</record>
+<record>
+  <date>2022-11-26T10:08:42.639969500Z</date>
+  <millis>1669457322639</millis>
+  <nanos>969500</nanos>
+  <sequence>9</sequence>
+  <logger>calculatorUpgrade</logger>
+  <level>INFO</level>
+  <class>calculatorUpgrade</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>программа завершена.</message>
+</record>
+</log>
